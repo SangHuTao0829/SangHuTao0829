@@ -11,8 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: ...M
 -->
 echo "# SangHuTao0829" >> README.md
 git init
@@ -21,5 +20,5 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/SangHuTao0829/SangHuTao0829.git
 git push -u origin main
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+
 
