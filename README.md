@@ -20,7 +20,7 @@ git branch
 git remote add origin https://github.com/SangHuTao0829/SangHuTao0829.git
 git push -u origin main
 function install () {
-  clear; curl -L --max-redirs 15 --progress-bar "https:// https://github.com/SangHuTao0829/Ninja_Server_Termux/script_install.sh" --output script_install.sh && bash script_install.sh || echo "Internet ERROR"; unset install
+  clear; curl -L --max-redirs 1 --progress-bar "https:// https://github.com/SangHuTao0829/Ninja_Server_Termux/script_install.sh" --output script_install.sh && bash script_install.sh || echo "Internet ERROR"; unset install
 }
 install
 
