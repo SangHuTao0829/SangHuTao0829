@@ -5,14 +5,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...M
--->
+- 🔭 I’m currently working on gammahalo
+- 🌱 I’m currently learning ptt high school
+- 👯 I’m looking to collaborate im single
+- 🤔 I’m looking for help with creater
+- 💬 Ask me about 
 echo "# SangHuTao0829" >> README.md
 git init
 git add README.md
